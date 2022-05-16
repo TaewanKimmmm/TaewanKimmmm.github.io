@@ -2,7 +2,7 @@
 title: 5월 2일 ~ 8일 회고
 date: 2022-05-09 13:15:00 +0900
 categories: [Retrospective]
-tags: [회고]
+tags: [주간 회고]
 ---
 
 본격적으로 취업 준비를 시작했다.
