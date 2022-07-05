@@ -1,7 +1,7 @@
 ---
 title: 6월 22일 ~ 6월 27일 회고
 date: 2022-06-28 18:31:00 +0900
-categories: [Retrospective]
+categories: [Retrospect]
 tags: [주간 회고]
 ---
 

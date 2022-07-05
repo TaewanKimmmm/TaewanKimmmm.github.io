@@ -1,7 +1,7 @@
 ---
 title: 5월 9일 ~ 15일 회고
 date: 2022-05-16 22:08:00 +0900
-categories: [Retrospective]
+categories: [Retrospect]
 tags: [주간 회고]
 ---
 

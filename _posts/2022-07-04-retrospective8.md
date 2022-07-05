@@ -1,7 +1,7 @@
 ---
 title: 6월 28일 ~ 7월 03일 회고
 date: 2022-07-04 13:57:00 +0900
-categories: [Retrospective]
+categories: [Retrospect]
 tags: [주간 회고]
 ---
 

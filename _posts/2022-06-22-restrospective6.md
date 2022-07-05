@@ -1,7 +1,7 @@
 ---
 title: 6월 12일 ~ 6월 21일 회고
 date: 2022-06-22 07:31:00 +0900
-categories: [Retrospective]
+categories: [Retrospect]
 tags: [주간 회고]
 ---
 

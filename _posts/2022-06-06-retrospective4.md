@@ -1,7 +1,7 @@
 ---
 title: 5월 29일 ~ 6월 4일 회고
 date: 2022-06-06 16:08:00 +0900
-categories: [Retrospective]
+categories: [Retrospect]
 tags: [주간 회고]
 ---
 

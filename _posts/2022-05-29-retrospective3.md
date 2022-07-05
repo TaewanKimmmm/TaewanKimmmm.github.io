@@ -1,7 +1,7 @@
 ---
 title: 5월 16일 ~ 28일 회고
 date: 2022-05-29 15:45:00 +0900
-categories: [Retrospective]
+categories: [Retrospect]
 tags: [주간 회고]
 ---
 
